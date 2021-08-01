@@ -1,1 +1,2 @@
-# tugas28_js
+# Tugas Fungsi Regex
+![tugas 28](tgs.png)
